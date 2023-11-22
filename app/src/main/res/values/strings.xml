@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ACCApp</string>
+
+
+    <string name="guidelines">Bago mo simulang gamitin ang LLILACE, mahalaga na iyong malaman ang mga mahahalagang tips na ito.\n\nSimula:\nKapag binuksan mo ang AAC app, simulan mo sa pagpili ng kategoryang naglalaman ng mga salitang hinahanap mo. Kapag natagpuan mo na ang gusto mong salita, pindutin ito, at awtomatikong lilitaw o malalagay ito sa whiteboard. Para magdagdag ng ibang mga salita sa iyong pangungusap, maaari kang bumalik sa pangunahing menu ng kategorya at pumili ng karagdagang mga salita.\n\nPagsasaayos ng Pangungusap:\nMatapos mo mabuo ang iyong pangungusap sa whiteboard, maari mong i-play ang audio nito.\n\nMga button sa ibaba ng whiteboard:\nPlay button: Maaari itong pindutin upang i-play ang audio para sa nabuong mga salita na nasa whiteboard.\n\nDelete button: Kung kailangan mong magbago, maaari mong burahin ang partikular na salita sa pamamagitan ng pag-pindot sa delete button\n\nTrash button: Kung nais mo namang burahin ang lahat ng simbolo o salita sa whiteboard, pindutin lamang itong button.\n\nPaggamit ng Setting:\nSa itaas ng app, may icon na settings kung saan maaari mong baguhin ang laki ng mga letra ayon sa iyong nais. Mayroon ka ring opsyon na gawing high contrast ang app para sa mas magandang kita. Ang mga setting na ito ay nagbibigay sa iyo ng kakayahang ayusin ang app ayon sa iyong pangangailangan at kaginhawaan.\n
+</string>
+
+
+</resources>
